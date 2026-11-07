@@ -12,6 +12,9 @@ This fork has an active **research and development branch** for adding **Hermes 
 
 **Status:** Planning and source inspection only. Hermes/Paperclip integrations and Termux execution are **not implemented or enabled** in this branch yet. The original upstream project is [`witnesstodark/mr-mak-workspace`](https://github.com/witnesstodark/mr-mak-workspace); this is an independent NewportRiver fork and proposed contribution, not an upstream feature announcement.
 
+[![Approved Hermes + Termux New Chat UI concept](docs/assets/hermes-termux-new-chat.webp)](FEATURE_PLAN.md)
+
+*Approved Hermes + Termux New Chat UI concept. See the [feature plan](FEATURE_PLAN.md) for the integration roadmap.*
 
 Mr. Mak has **two connected desktop windows**:
 
