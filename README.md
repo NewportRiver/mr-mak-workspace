@@ -2,6 +2,17 @@
 
 Your CLI agents, a visual Workspace, and access from your phone.
 
+## Newport River experimental integration branch
+
+This fork has an active **research and development branch** for adding **Hermes AI agent support**, **Paperclip task/workflow integration**, and a proposed **Android + Termux runner** to Mr. Mak. The aim is to use the existing Workspace as a visual interface for projects, tasks, terminals, and verified agent deliverables while preserving Mr. Mak's existing features and security boundaries.
+
+- **Branch:** [`feature/hermes-paperclip-autonomous-workspace`](https://github.com/NewportRiver/mr-mak-workspace/tree/feature/hermes-paperclip-autonomous-workspace)
+- **Start here:** [`FEATURE_PLAN.md`](FEATURE_PLAN.md) — overview, milestone roadmap (M0–M8), Android/Termux track, and links to technical research.
+- **Detailed documents:** [`docs/integrations/`](docs/integrations/) — architecture, security, compatibility, source review, and contribution strategy.
+
+**Status:** Planning and source inspection only. Hermes/Paperclip integrations and Termux execution are **not implemented or enabled** in this branch yet. The original upstream project is [`witnesstodark/mr-mak-workspace`](https://github.com/witnesstodark/mr-mak-workspace); this is an independent NewportRiver fork and proposed contribution, not an upstream feature announcement.
+
+
 Mr. Mak has **two connected desktop windows**:
 
 - **Chats** is where you give tasks to Codex, Claude Code, Antigravity, OpenCode or Kimi. Each
